@@ -2,4 +2,4 @@ env
 marimo-env
 outbound-notebooks
 .env
-venv
+.venv
